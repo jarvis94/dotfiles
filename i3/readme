@@ -1,0 +1,7 @@
+dependencies
+ i3-gaps
+ i3bar-gaps
+ acpi
+ pulseaudio-ctl
+ fontawesome
+
